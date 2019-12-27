@@ -1,0 +1,72 @@
+Bưu Điện Quận 4
+104 Nguyễn Tất Thành , P. 13
+10.764347
+106.707395
+https://images.foody.vn/res/g22/211993/prof/s640x400/foody-mobile-960x600-avatarmicros-901-635914074369901415.jpg
+
+Bưu Điện Chánh Hưng 
+Lô A, Chung Cư Phạm Thế Hiển, P. 4
+10.744171
+106.673662
+https://images.foody.vn/res/g22/212277/prof/s640x400/foody-mobile-960x600-avatarmicros-290-635914914013296171.jpg
+
+Bưu Điện Bà Hom
+27 Lộ Tẻ, P. Tân Tạo A
+10.755068
+106.590489
+https://images.foody.vn/res/g22/213196/prof/s640x400/foody-mobile-960x600-avatarmicros-136-635918365301270038.jpg
+
+Bưu Điện Bà Điểm
+26 Phan Văn Đối, P. Bà Điểm
+10.834102
+106.597365
+https://images.foody.vn/res/g22/213443/prof/s640x400/foody-mobile-960x600-avatarmicros-128-635919199388091034.jpg
+
+Bưu Điện Phú Xuân
+22 Huỳnh Tấn Phát, P. Phú Xuân
+10.679299
+106.751346
+https://images.foody.vn/res/g22/213455/prof/s640x400/foody-mobile-960x600-avatarmicros-421-635919215883872007.jpg
+
+Bưu Điện Tân Phong
+382 Nguyễn Thị Thập, P. Tân Phong
+10.870744
+106.812043
+https://images.foody.vn/res/g22/213466/prof/s640x400/foody-mobile-960x600-avatarmicros-824-635919230348841413.jpg
+
+Bưu Điện Tân Bình
+288 Hoàng Văn Thụ, P. 4
+10.798827
+106.658762
+https://images.foody.vn/res/g21/208515/prof/s640x400/foody-mobile-960x600-avatarmicros-378-635896760920206607.jpg
+
+Viễn Thông A - Trường Chinh
+320 - 320A Trường Chinh, P. 13
+10.798769
+106.642998
+https://images.foody.vn/res/g21/209758/prof/s640x400/foody-mobile-960x600-avatarmicros-602-635901061945739758.jpg
+
+Bạch Long Mobile 
+134 - 136 Trần Phú, P. 4
+10.761225
+106.677578
+https://images.foody.vn/res/g22/217310/prof/s640x400/foody-mobile-960x600-avatarmicros-265-635931110890434036.jpg
+
+iCare Center - Bệnh Viện Máy Tính - Phan Đăng Lưu
+114 Phan Đăng Lưu
+10.80303
+106.683981
+https://images.foody.vn/res/g30/291992/prof/s640x400/foody-mobile--57d10cb94c6fcb56bff-795-636142819619203119.jpg
+
+Bưu Điện Long Hòa
+Nguyễn Xiễn, P. Long Thạnh Mỹ
+10.835906
+106.830028
+https://images.foody.vn/res/g22/213087/prof/s640x400/foody-mobile-960x600-avatarmicros-370-635918191634433008.jpg
+
+Bưu Điện Hiệp Phước
+376 Nguyễn Văn Tạo, P. Hiệp Phước
+10.631866
+106.735946
+https://images.foody.vn/res/g22/213452/prof/s640x400/foody-mobile-960x600-avatarmicros-231-635919210363178310.jpg
+end:

@@ -1,0 +1,72 @@
+Cơm Chay Mani
+291/2 Võ Văn Tần, P. 5
+10.772308
+106.68613
+https://images.foody.vn/res/g1/3105/prof/s640x400/foody-upload-api-foody-mobile-13-jpg-181222075349.jpg
+
+Sen - Nhà hàng Chay - Nguyễn Thái Học
+171 Nguyễn Thái Học, P. Phạm Ngũ Lão
+10.768398
+106.69504
+https://images.foody.vn/res/g1/4075/prof/s640x400/foody-upload-api-foody-mobile-hm1-190903114240.jpg
+
+Quán Chay Thôi Kệ - Lê Hồng Phong
+733 Lê Hồng Phong, P. 12
+10.7714648
+106.6726541000001
+https://images.foody.vn/res/g19/188485/prof/s640x400/foody-mobile-y-jpg-525-635839774568638342.jpg
+
+Vegeta - Ẩm Thực Chay
+684 Điện Biên Phủ, P. 10
+10.7695663776124
+106.6757277809588
+https://images.foody.vn/res/g26/257202/prof/s640x400/foody-mobile-111-jpg-631-636322614939599009.jpg
+
+Bà Xã Vegan - Nhà Hàng Chay - Nguyễn Trãi
+245/5 Nguyễn Trãi, P. Nguyễn Cư Trinh
+10.7639486
+106.6886116000001
+https://images.foody.vn/res/g73/723086/prof/s640x400/foody-upload-api-foody-mobile-100-190513182636.jpg
+
+Việt Chay - Chùa Vĩnh Nghiêm
+290/21A Nam Kỳ Khởi Nghĩa, P. 7
+10.790201
+106.684252
+https://images.foody.vn/res/g1/283/prof/s640x400/foody-upload-api-foody-mobile-dsfsdfsd-gif-180730111334.jpg
+
+Chay Hoan Hỷ - Bà Huyện Thanh Quan
+73 Bà Huyện Thanh Quan
+10.776998
+106.688232
+https://images.foody.vn/res/g7/68692/prof/s640x400/foody-mobile-dau-hu-com-jpg-500-636268095320107622.jpg
+
+Quán Chay Thiện Tâm - Sư Vạn Hạnh
+389 Sư Vạn Hạnh, P. 12
+10.77176
+106.669575
+https://images.foody.vn/res/g2/12806/prof/s640x400/foody-mobile-chay-thien-tam-mb-jp-912-635830318613905708.jpg
+
+Sân Mây - Nhà Hàng Chay
+771 Lê Hồng Phong (Nối Dài), P. 12
+10.77243446618
+106.6721794009208
+https://images.foody.vn/res/g8/77468/prof/s640x400/foody-mobile-c1-jpg-933-635774041102629062.jpg
+
+Lẩu Nấm Chay Phước Duyên - Nguyễn Biểu
+Chung Cư 109 Nguyễn Biểu, P. 1
+10.754785
+106.683591
+https://images.foody.vn/res/g27/262523/prof/s640x400/foody-mobile-c2-jpg-323-636058155383274563.jpg
+
+Saigon Vegan - Quán Chay
+378/3 Võ Văn Tần, P. 5
+10.7705956009637
+106.6843200847507
+https://images.foody.vn/res/g1/1567/prof/s640x400/foody-mobile-vegan-mb-jpg-235-635829194731771713.jpg
+
+Bếp Chay Phạm Hồng Phước - Võ Thị Sáu
+146/1 Võ Thị Sáu, P. 8
+10.7872214
+106.6910058
+https://images.foody.vn/res/g27/269544/prof/s640x400/foody-mobile-bep-chay-jpg-120-636125971296525715.jpg
+end:

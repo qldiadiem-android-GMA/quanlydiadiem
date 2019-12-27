@@ -1,0 +1,144 @@
+Eximbank ATM - Lê Thị Hồng Gấm
+136-138 Lê Thị Hồng Gấm
+10.767708
+106.696314
+https://images.foody.vn/res/g22/216085/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124114128.jpg
+
+Agribank - Tân Kỳ Tân Quý
+257 Tân Kỳ Tân Quý, P. Tân Sơn Nhì
+10.8025085
+106.6280899
+https://images.foody.vn/res/g25/240070/prof/s640x400/foody-upload-api-foody-mobile-agribank-190123162845.jpg
+
+Ngân Hàng Quốc Dân NCB - PGD Hàng Xanh
+246A Xô Viết Nghệ Tĩnh
+10.799123
+106.711269
+https://images.foody.vn/res/g24/234631/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124141411.jpg
+
+HSBC ATM - Mạc Đĩnh Chi
+49 Mạc Đĩnh Chi
+10.787222
+106.696856
+https://images.foody.vn/res/g23/223159/prof/s640x400/foody-upload-api-foody-mobile-hsbc-logo-1024x768-190123150223.jpg
+
+Citibank ATM - Cộng Hòa
+364 Cộng Hòa, P. 13
+10.802324
+106.640237
+https://images.foody.vn/res/g28/278113/prof/s640x400/foody-upload-api-foody-mobile-citibank-logo-190124141307.jpg
+
+SeABank - PGD Quận 10
+320 - 322 Đường 3 Tháng 2
+10.770035
+106.671529
+https://images.foody.vn/res/g26/252593/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124092249.jpg
+
+Ngân Hàng Bangkok
+35 Nguyễn Huệ, P. Bến Nghé
+10.7721185
+106.7055038
+https://images.foody.vn/res/g76/758836/prof/s640x400/foody-upload-api-foody-mobile-4a1437a535121ae5a634-180712094103.jpg
+
+Eximbank ATM - Hùng Vương
+120 Hùng Vương
+10.757209
+106.665068
+https://images.foody.vn/res/g22/215118/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124114452.jpg
+
+Eximbank ATM - Nguyễn Trọng Tuyển
+274 Nguyễn Trọng Tuyển, P. 8
+10.798197
+106.671821
+https://images.foody.vn/res/g22/215119/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124114437.jpg
+
+Eximbank ATM - Phú Châu
+29 Phú Châu, P. Tam Phú
+10.864369
+106.746292
+https://images.foody.vn/res/g22/215128/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124114425.jpg
+
+Eximbank ATM - Chợ Lớn
+110 - 112 - 114 Chợ Lớn, P. 11
+10.745484
+106.630805
+https://images.foody.vn/res/g22/215186/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124114409.jpg
+
+ANZ Bank ATM - Cách Mạng Tháng Tám
+ 12 Cách Mạng Tháng 8
+10.771899
+106.692669
+https://images.foody.vn/res/g26/251242/prof/s640x400/foody-upload-api-foody-mobile-anz-190123144055.jpg
+
+Ngân Hàng TMCP Sài Gòn - Trần Hưng Đạo
+ 927 Trần Hưng Đạo
+10.754584
+106.678678
+https://images.foody.vn/res/g26/251813/prof/s640x400/foody-mobile-960x600-avatarmicros-341-636029643030644245.jpg
+
+SeABank - PGD Quận 9
+3 Lê Văn Việt
+10.844152
+106.78914
+https://images.foody.vn/res/g26/252586/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124092312.jpg
+
+Ngân Hàng Đại Chúng - CN Hồ Chí Minh
+19 Phạm Ngọc Thạch, P. 6
+10.783559
+106.694728
+https://images.foody.vn/res/g26/252661/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124163630.jpg
+
+Ngân Hàng Đại Chúng - CN Sài Gòn
+Tầng Trệt, Internationnal Plaza, 343 Phạm Ngũ Lão
+10.767213
+106.689798
+https://images.foody.vn/res/g26/252674/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124163610.jpg
+
+Ngân Hàng Đại Chúng - PGD Bến Thành
+421 - 423 Lý Thường Kiệt
+10.784041
+106.654225
+https://images.foody.vn/res/g26/253423/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124163328.jpg
+
+HDBank ATM - Nguyễn Thị Minh Khai
+25Bis Nguyễn Thị Minh Khai, P. Bến Nghé
+10.784102
+106.699154
+https://images.foody.vn/res/g26/253726/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124145711.jpg
+
+HDBank ATM - Nguyễn Thị Định
+540 Nguyễn Thị Định
+10.778911
+106.763389
+https://images.foody.vn/res/g26/253790/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124145505.jpg
+
+HDBank ATM - Nam Kỳ Khởi Nghĩa
+201E Nam Kỳ Khởi Nghĩa, P. 6
+10.787302
+106.686356
+https://images.foody.vn/res/g26/254232/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124144911.jpg
+
+Ngân Hàng TMCP Sài Gòn - Nguyễn Huệ
+ 56 Nguyễn Huệ
+10.774531
+106.703534
+https://images.foody.vn/res/g26/254257/prof/s640x400/foody-mobile-960x600-avatarmicros-712-636035749316511161.jpg
+
+OCB ATM - Nguyễn Công Trứ
+194 Nguyễn Công Trứ
+10.7684926
+106.7010050999999
+https://images.foody.vn/res/g26/254965/prof/s640x400/foody-upload-api-foody-mobile-hmn-190124161302.jpg
+
+VietinBank ATM - Trần Thiện Chánh
+24 Trần Thiện Chánh
+10.771067
+106.672045
+https://images.foody.vn/res/g24/232082/prof/s640x400/foody-upload-api-foody-mobile-kieu-190124163124.jpg
+
+Agribank ATM - 12 Lý Thường Kiệt
+12 Lý Thường Kiệt, TT. Hóc Môn
+10.888384
+106.5944273
+https://images.foody.vn/res/g24/238997/prof/s640x400/foody-upload-api-foody-mobile-agribank-190123165127.jpg
+end:

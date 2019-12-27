@@ -1,0 +1,71 @@
+Trường Đại Học Công Nghiệp Thực Phẩm Hồ Chí Minh
+140 Lê Trọng Tấn, P. Tây Thạnh
+10.806693,
+106.6285701
+
+
+Học Viện Công Nghệ Bưu Chính Viễn Thông
+97 Man Thiện, P. Tăng Nhơn Phú A
+10.8481269
+106.7871198
+https://images.foody.vn/res/g20/192768/prof/s640x400/foody-mobile-t1-jpg-154-635852778811279587.jpg
+
+Đại Học Nguyễn Tất Thành
+331A Quốc Lộ 1A, P. An Phú Đông
+10.8605645986371
+106.6933390125632
+https://images.foody.vn/res/g28/274975/prof/s640x400/foody-mobile-4820_wnwczdqj-jpg-780-636094624022648932.jpg
+
+Trường Đại Học Văn Hóa Nghệ Thuật Quân Đội
+140 Cộng Hòa, P. 4
+10.8023369279939
+106.6563758254051
+https://images.foody.vn/res/g79/784650/prof/s640x400/foody-upload-api-foody-mobile-3-gif-181011154048.jpg
+
+Học Viện Thanh Thiếu Niên Việt Nam - Phân Viện Miền Nam
+261 Hoàng Hữu Nam, P. Tân Phú
+10.862413
+106.813373
+https://images.foody.vn/res/g87/861155/prof/s640x400/foody-upload-api-foody-mobile-hmn-jpg-181213141733.jpg
+
+Trường Đại Học Văn Hiến
+624 Âu Cơ, P. 10
+10.78408
+106.642616
+https://images.foody.vn/res/g63/624329/prof/s640x400/foody-mobile-dsc_5436-jpg-134-636193091490947813.jpg
+
+Trường Đại Học Sư Phạm TP. HCM - Cơ Sở 2
+222 Lê Văn Sỹ, P. 14
+10.786604
+106.680986
+https://images.foody.vn/res/g29/286351/prof/s640x400/foody-mobile-hinh-3-2-jpg-982-636126648782835557.jpg
+
+Trường Đại Học Văn Lang
+233 Phan Văn Trị, P. 11
+10.808528
+106.696868
+https://images.foody.vn/res/g30/295186/prof/s640x400/foody-mobile-bannerbg011-jpg-154-636149151111807590.jpg
+
+Trường Đại Học Sư Phạm Thể Dục Thể Thao
+639 Nguyễn Trãi, P. 11
+10.753298
+106.663543
+https://images.foody.vn/res/g30/295975/prof/s640x400/foody-mobile-unknown-jpg-115-636149681235458116.jpg
+
+Trường Đại Học Luật TPHCM
+2 Nguyễn Tất Thành, P. 12
+10.767576
+106.705565
+https://images.foody.vn/res/g30/295978/prof/s640x400/foody-mobile-fnhams51-jpg-491-636149663486321378.jpg
+
+Trường Đại Học Tài Chính - Marketing
+2/4 Trần Xuân Soạn, P. Tân Thuận Tây
+10.752153
+106.718913
+https://images.foody.vn/res/g30/296173/prof/s640x400/foody-mobile-301631_1802395820511-135-636149784409195283.jpg
+
+Trường Đại Học Thể Dục Thể Thao
+Đường A2, P. Linh Trung
+10.8709832057768
+106.7954148352145
+https://images.foody.vn/res/g77/766572/prof/s640x400/foody-upload-api-foody-mobile-fg-gif-180804145424.jpg

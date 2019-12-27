@@ -1,0 +1,72 @@
+Phòng Chiếu Phim HD
+409/32 Hòa Hảo, P. 5
+10.7608087
+106.6672032
+https://images.foody.vn/res/g25/242025/prof/s640x400/foody-mobile-t1-jpg-668-636005631327202234.jpg
+
+Cặp Đôi Hạnh Phúc Cinema
+522 Bis Lê Văn Sỹ, P. 14
+10.7897245
+106.6743976
+https://images.foody.vn/res/g10/92272/prof/s640x400/foody-mobile-hmb-f-jpg-364-635780826826148332.jpg
+
+Lovely HD Cafe
+380/28/2C Phạm Văn Chiêu, P. 9
+10.8493598
+106.6530292
+https://images.foody.vn/res/g68/678848/prof/s640x400/foody-mobile-dia-chi-cac-quan-caf-838-636373700202852672.jpg
+
+HDMedia Cafe - Chợ Lớn
+17 Chợ Lớn, P. 11
+10.745537
+106.6309026999999
+https://images.foody.vn/res/g16/153594/prof/s640x400/foody-mobile-a2-jpg-888-635733258055709851.jpg
+
+Rạp Cinema 3D - Ngô Quyền
+109 Ngô Quyền
+10.7539979
+106.6665646999999
+https://images.foody.vn/res/g12/110674/prof/s640x400/foody-mobile-t-1-jpg-744-635670285976349092.jpg
+
+Speedcinema - Phòng Phim Tự Chọn 3D/HD
+4/38 Lý Thường Kiệt
+10.8856088
+106.5883587999999
+https://images.foody.vn/res/g81/801828/prof/s640x400/foody-upload-api-foody-mobile-20140410184308_man-c-181122160654.jpg
+
+Hừng Hoa Beer
+Lầu 5, 11A Hòa Hưng, P. 12
+10.780025
+106.676679
+https://images.foody.vn/res/g89/886614/prof/s640x400/foody-upload-api-foody-mobile-hunghoa-190211134220.jpg
+
+HD Media Cafe - Cư Xá Bình Thới
+Cư Xá Bình Thới, 31 Đường Số 2 , P. 8
+10.7631214579334
+106.6491954958037
+https://images.foody.vn/res/g86/852336/prof/s640x400/foody-upload-api-foody-mobile-1-gif-181128114233.jpg
+
+Sai Thanh Cinema
+313 Tân Hương
+10.7901247
+106.6212934999999
+https://images.foody.vn/res/g17/164575/prof/s640x400/foody-mobile-hmb-ci-jpg-323-635766173631744143.jpg
+
+Cafe Phim SonHD
+23 Đường Số 1, P. Linh Tây
+10.852088
+106.753953
+https://images.foody.vn/res/g92/919308/prof/s640x400/foody-upload-api-foody-mobile-foody-1-636032399038-191106162344.jpg
+
+HD Box Cinema
+Tầng 2, 66 Nguyễn Văn Nghi, P. 5
+10.8225088721175
+106.6883936485901
+https://images.foody.vn/res/g27/262800/prof/s640x400/foody-mobile-13924925_17665836736-122-636064212503755734.jpg
+
+Tống Gia Vỹ HD Media - Đường Số 28
+139 Đường Số 28, Tiểu Khu 1, P. Bình Trị Đông B
+10.748712
+106.610346
+https://images.foody.vn/res/g76/750733/prof/s640x400/foody-upload-api-foody-mobile-hhh-jpg-180614112820.jpg
+end:

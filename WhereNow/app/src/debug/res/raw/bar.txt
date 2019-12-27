@@ -1,0 +1,72 @@
+Beer & Barrel - Thế Giới Bia Bỉ
+12 Lê Quý Đôn, P. 6
+10.781005
+106.691218
+https://images.foody.vn/res/g11/102264/prof/s640x400/foody-mobile-beer-barrel-le-quy-don-ho-chi-minh-649-635649771162750075.jpg
+
+Boheme Pub - Bùi Viện
+28/2A Bùi Viện, P. Phạm Ngũ Lão
+10.767976
+106.694573
+https://images.foody.vn/res/g4/36418/prof/s640x400/foody-mobile-boheme-pub-bui-vien-chill-out-pre-drink-get-drunk-tonight--tp-hcm.jpg
+
+Cowboy Steakhouse & Grill
+40 Đồng Nai, P. 15
+10.7779012608418
+106.6638571768999
+https://images.foody.vn/res/g26/257947/prof/s640x400/foody-upload-api-foody-mobile-4-jpg-181218111031.jpg
+
+Vườn Bia 2F - Bia Club
+79C Điện Biên Phủ, P. Đa Kao
+10.7894113
+106.697508
+https://images.foody.vn/res/g5/49049/prof/s640x400/foody-mobile-vuon-bia-2f-mb-jpg-908-635742211982277480.jpg
+
+Air Saigon
+Lẩu 22, Bến Thành Tower, 136 - 138 Lê Thị Hồng Gấm
+10.7676614
+106.696346
+https://images.foody.vn/res/g12/111021/prof/s640x400/foody-upload-api-foody-mobile-3-jpg-180601114745.jpg
+
+Fang Pub
+13 Hồ Xuân Hương
+10.777757
+106.68885
+https://images.foody.vn/res/g5/49166/prof/s640x400/foody-mobile-y1-jpg-313-635760247555952287.jpg
+
+RuNam d'Or - Nhà Thờ Đức Bà
+3 Công Xã Paris, P. Bến Nghé
+10.7794248840777
+106.6989230364561
+https://images.foody.vn/res/g64/631166/prof/s640x400/foody-mobile-runamdor4-jpg-525-636370992489078641.jpg
+
+Martini Bar - Park Hyatt Saigon
+Lobby Park Hyatt Hotel, 2 Công Trường Lam Sơn
+10.777399
+106.703661
+https://images.foody.vn/res/g1/5281/prof/s640x400/foody-mobile-martini-bar-park-hyatt.jpg
+
+Shahar Cafe Lounge
+4 - 1B Khu Mĩ Kim
+10.7273295
+106.7140809
+https://images.foody.vn/res/g1/4655/prof/s640x400/foody-mobile-10003438_47888786557-490-635755162473568283.jpg
+
+Layla - Eatery & Bar
+Tầng 2, 63 Đông Du, P. Bến Nghé
+10.7751016736149
+106.7041610553861
+https://images.foody.vn/res/g32/311007/prof/s640x400/foody-mobile-15094507_12948724005-858-636169575741287158.jpg
+
+Feliz Cafe - Lounge
+28A Tân Hải, P. 13
+10.801196
+106.63962
+https://images.foody.vn/res/g4/34170/prof/s640x400/foody-mobile-filez-mb-jpg-118-635866416796630441.jpg
+
+ChillChill Pub
+63 Hồ Xuân Hương, P. 6
+10.7761365925735
+106.6871579320077
+https://images.foody.vn/res/g66/651661/prof/s640x400/foody-mobile-sdf-jpg-291-636281058909321282.jpg
+end:

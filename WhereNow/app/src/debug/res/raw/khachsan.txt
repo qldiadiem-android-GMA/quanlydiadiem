@@ -1,0 +1,144 @@
+Tân Sơn Nhất Hotel
+202 Hoàng Văn Thụ
+10.79995
+106.670913
+https://images.foody.vn/res/g11/107212/prof/s640x400/foody-mobile-tan-son-nhat-jpg-338-636106106345059723.jpg
+
+Caravelle Saigon Hotel 
+19 - 23 Công Trường Lam Sơn, P. Bến Nghé
+10.776533
+106.7036739999999
+https://images.foody.vn/res/g16/151439/prof/s640x400/foody-mobile-34-jpg-572-635724876986851682.jpg
+
+Novotel Hotel - Hai Bà Trưng
+167 Hai Bà Trưng
+10.784398
+106.6959469999999
+https://images.foody.vn/res/g15/140510/prof/s640x400/foody-mobile-23-jpg-636-635768684218097755.jpg
+
+Sofitel Saigon Plaza
+Central Plaza Building, 17 Lê Duẩn, P. Bến Nghé
+10.78421
+106.702657
+https://images.foody.vn/res/g21/208025/prof/s640x400/foody-mobile-hmb-s-jpg-153-635894157251765505.jpg
+
+Landmark 81 - Vinhomes Central Park
+Landmark 81, 772 Điện Biên Phủ, P. 22
+10.794875
+106.721917
+https://images.foody.vn/res/g77/764666/prof/s640x400/foody-upload-api-foody-mobile-toan-canh-thap-landm-180801140901.jpg
+
+Hotel Des Arts Saigon
+76 - 78 Nguyễn Thị Minh Khai
+10.782442
+106.6972164999999
+https://images.foody.vn/res/g17/162966/prof/s640x400/foody-mobile-t1-jpg-271-635760984854587283.jpg
+
+Mekong 9 Hotel
+20 Hồ Biểu Chánh, P. 11
+10.794228
+106.67686
+https://images.foody.vn/res/g10/96533/prof/s640x400/foody-mobile-9hotel-jpg-120-636106578454110930.jpg
+
+Eastin Grand Hotel Saigon
+253 Nguyễn Văn Trỗi
+10.796659
+106.673201
+https://images.foody.vn/res/g20/194250/prof/s640x400/foody-mobile-huy-jpg-264-635853372912962937.jpg
+
+Bali Hotel & Restaurant
+39 - 41 Hưng Phước 3
+10.730576
+106.706882
+https://images.foody.vn/res/g3/27226/prof/s640x400/foody-mobile-w9prt4yj-jpg-321-636009731987386197.jpg
+
+Adachi Hotel - Sư Vạn Hạnh
+449/15 Sư Vạn Hạnh, P. 12
+10.773045771922
+106.6688400506973
+https://images.foody.vn/res/g13/128677/prof/s640x400/foody-mobile-t-2-jpg-127-635635639728595404.jpg
+
+Bloom Saigon Hotel - Trương Định
+27 - 29 Trương Định, P. Bến Thành
+10.773261
+106.694893
+https://images.foody.vn/res/g18/172786/prof/s640x400/foody-mobile-bl-sg-jpg-588-635796598777808425.jpg
+
+Saigon Prince Hotel
+63 Nguyễn Huệ
+10.773001
+106.704241
+https://images.foody.vn/res/g64/637664/prof/s640x400/foody-mobile-10991_16092714120046-362-636238750745810282.jpg
+
+Phước Lộc Thọ 2 - Restaurant & Hotel
+192 - 194 Sư Vạn Hạnh, P. 9
+10.7588797
+106.6736016
+https://images.foody.vn/res/g12/110432/prof/s640x400/foody-upload-api-foody-mobile-plt-190403145903.jpg
+
+Hong Kong Kaiteki Hotel
+22 Bùi Viện, P. Phạm Ngũ Lão
+10.7677834296516
+106.6947438195347
+https://images.foody.vn/res/g11/103878/prof/s640x400/foody-mobile-hong-kong-hotel-jpg-872-636106585512483532.jpg
+
+The Myst Dong Khoi Hotel
+6 - 8 Hồ Huấn Nghiệp
+10.774592
+106.705203
+https://images.foody.vn/res/g66/650347/prof/s640x400/foody-mobile-dsfsdf-jpg-760-636274161530825289.jpg
+
+Hotel Continental Saigon
+132 - 134 Đồng Khởi, P. Bến Nghé
+10.776898
+106.70269
+https://images.foody.vn/res/g65/642432/prof/s640x400/foody-upload-api-foody-mobile-gan2-jpg-180918093050.jpg
+
+Paragon Saigon Hotel - Thi Sách 
+22 - 24 Thi Sách 
+10.7786923
+106.7040267
+https://images.foody.vn/res/g13/124141/prof/s640x400/foody-mobile--8-_hinhmob-jpg-130-635666928987184156.jpg
+
+Windsor Plaza Hotel
+18 An Dương Vương, P. 9
+10.757888
+106.673408
+https://images.foody.vn/res/g16/151379/prof/s640x400/foody-mobile-22-jpg-737-635724817638263441.jpg
+
+Capri By Fraser Hotel Residences
+2 Đường C
+10.7202897
+106.7299837
+https://images.foody.vn/res/g13/125120/prof/s640x400/foody-mobile-hmb-ks-jpg-330-635616633575429782.jpg
+
+Bonita Hotel - Trần Hưng Đạo
+570 Trần Hưng Đạo, P. 2
+10.7553384825576
+106.680309176445
+https://images.foody.vn/res/g32/311856/prof/s640x400/foody-mobile-hhhhh-jpg.jpg
+
+Romance Hotel
+95 Đường Số 2, KDC Ven Sông, P. Tân Phong
+10.7277689
+106.6924864
+https://images.foody.vn/res/g26/252034/prof/s640x400/foody-mobile-hmb-jpg-702-636029836761010146.jpg
+
+Khách Sạn Quỳnh Thanh
+662/53 Sư Vạn Hạnh , p12 , Q 10
+10.77131
+106.67028
+https://images.foody.vn/res/g8/73644/prof/s640x400/foody-mobile-khach-san-quynh-thanh-su-van-hanh-tp-hcm-140610032142.jpg
+
+Bay Hotel
+7 Ngô Văn Năm
+10.781245
+106.706432
+https://images.foody.vn/res/g28/275117/prof/s640x400/foody-mobile-c2-jpg-470-636092684331242949.jpg
+
+Hạnh Phúc Hotel
+265 Nguyễn Trãi
+10.764259
+106.68745
+https://images.foody.vn/res/g11/103859/prof/s640x400/foody-mobile-hmb-khach-san-jpg-789-635536511644190721.jpg
+end:

@@ -1,0 +1,71 @@
+Parkson Hùng Vương Shopping Center
+126 Hùng Vương
+10.755826
+106.662719
+https://images.foody.vn/res/g11/101009/prof/s640x400/foody-mobile-hmb-parkson-jpg-924-635514858244099136.jpg
+
+AEON Citimart Cao Thắng
+96 Cao Thắng, P. 2
+10.7714331322555
+106.6807433965453
+https://images.foody.vn/res/g19/181378/prof/s640x400/foody-upload-api-foody-mobile-untitled-2-190508135828.jpg
+
+Trung Tâm Thương Mại RomeA
+117 Nguyễn Đình Chiểu, P. 6
+10.77798
+106.689766
+https://images.foody.vn/res/g66/655551/prof/s640x400/foody-mobile-hmb-jpg-563-636289840890911203.jpg
+
+Vincom Shopping Center 
+72 Lê Thánh Tôn, P. Bến Nghé
+10.7785501026353
+106.7015857994556
+https://images.foody.vn/res/g15/144718/prof/s640x400/foody-mobile-t-1-jpg-492-635701467192614245.jpg
+
+Trung Tâm Thương Mại Sense Market
+4 Phạm Ngũ Lão
+10.7693146796196
+106.6938892006874
+https://images.foody.vn/res/g65/644839/prof/s640x400/foody-mobile-dfgdfgdfgdfg-jpg-379-636257080775631004.jpg
+
+Vincom Plaza Quang Trung
+190 Quang Trung, P. 10
+10.829543
+106.672132
+https://images.foody.vn/res/g17/165349/prof/s640x400/foody-mobile--32-_hinhmob-jpg-857-635768992506463235.jpg
+
+Pearl Plaza
+561 Điện Biên Phủ, P. 25
+10.7990865
+106.7190106
+https://images.foody.vn/res/g19/186578/prof/s640x400/foody-mobile-plaza-jpg-826-636115169724640970.jpg
+
+The Box Market
+2 Hồ Xuân Hương, P. 6
+10.777218
+106.687568
+https://images.foody.vn/res/g29/286345/prof/s640x400/foody-mobile-14650090_11203600680-180-636126633219514436.jpg
+
+Nowzone Fashion Mall Shopping Center
+235 Nguyễn Văn Cừ, P. Nguyễn Cư Trinh
+10.764032
+106.6832299999999
+https://images.foody.vn/res/g15/145153/prof/s640x400/foody-mobile-t2-jpg-738-635702210022756988.jpg
+
+Taka Plaza Shopping Center
+102 Nam Kỳ Khởi Nghĩa, P. Bến Nghé
+10.774473
+106.6998489999999
+https://images.foody.vn/res/g15/146771/prof/s640x400/foody-mobile-t-1-jpg-578-635708256590049910.jpg
+
+Vincom Plaza Lê Văn Việt
+50 Lê Văn Việt, P. Hiệp Phú
+10.846247
+106.778941
+https://images.foody.vn/res/g23/222821/prof/s640x400/foody-mobile-hmb-s-jpg-922-635947627564066613.jpg
+
+BLOQ - Shopping Mall
+19 Trần Ngọc Diện, P. Thảo Điền
+10.8036990540598
+106.7391756176949
+https://images.foody.vn/res/g71/708883/prof/s640x400/foody-mobile-17098708_65521563799.jpg

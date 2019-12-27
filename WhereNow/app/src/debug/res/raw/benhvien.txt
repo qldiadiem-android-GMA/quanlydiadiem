@@ -1,0 +1,72 @@
+Bệnh Viện Tim Tâm Đức
+4 Nguyễn Lương Bằng, Khu Đô Thị Mới Phú Mỹ Hưng, P. Tân Phú
+10.73371
+106.718445
+https://images.foody.vn/res/g11/102491/prof/s640x400/foody-mobile-18-1-jpg-904-635525226509380312.jpg
+
+Bệnh Viện Thống Nhất - Lý Thường Kiệt
+1 Lý Thường Kiệt, P. 7
+10.791088
+106.65335
+https://images.foody.vn/res/g15/147274/prof/s640x400/foody-mobile-t-1-jpg-892-635711713437879685.jpg
+
+Bệnh Viện Trưng Vương - Lý Thường Kiệt
+266 Lý Thường Kiệt, P. 14
+10.770029
+106.658327
+https://images.foody.vn/res/g11/106901/prof/s640x400/foody-mobile-foody-c-106901-788-6-381-635635651498816078.jpg
+
+Bệnh Viện Ung Bướu - Nơ Trang Long
+3 Nơ Trang Long, P. 7
+10.80498
+106.694112
+https://images.foody.vn/res/g15/146443/prof/s640x400/foody-mobile-t-2-jpg-858-635707348482131838.jpg
+
+Căn Tin Bệnh Viện Công An 30/4 
+9 Sư Vạn Hạnh
+10.759375
+106.67296
+https://images.foody.vn/res/g24/234972/prof/s640x400/foody-mobile-c2-jpg-611-635987300049817976.jpg
+
+Bệnh Viện Nhân Dân Gia Định - Nơ Trang Long
+1 Nơ Trang Long, P. 7
+10.803076
+106.6941409999999
+https://images.foody.vn/res/g15/146430/prof/s640x400/foody-mobile-t-2-jpg-545-635707334291566913.jpg
+
+Bệnh Viện Quận Thủ Đức - Phú Châu
+29 Phú Châu, P. Tam Phú
+10.864077
+106.7459739999999
+https://images.foody.vn/res/g15/146469/prof/s640x400/foody-mobile-t-2-jpg-216-635707365153881120.jpg
+
+Bệnh Viện Bệnh Nhiệt Đới
+764 Võ Văn Kiệt
+10.752397
+106.679026
+https://images.foody.vn/res/g12/111024/prof/s640x400/foody-mobile-m-doi-jpg-652-635612326955604330.jpg
+
+Bệnh Viện Mắt Sài Gòn - Lê Thị Riêng
+100 Lê Thị Riêng, P. Bến Thành
+10.7712487
+106.691097
+https://images.foody.vn/res/g13/128307/prof/s640x400/foody-mobile-t-2-jpg-965-635635016912009485.jpg
+
+Bệnh Viện Mắt TP.HCM - Điện Biên Phủ
+280 Điện Biên Phủ, P. 7
+10.7786893
+106.6853645
+https://images.foody.vn/res/g69/684968/prof/s640x400/foody-mobile-bv-mat-4-jpg-746-636397914426827322.jpg
+
+Bệnh Viện Phạm Ngọc Thạch 
+120 Hùng Vương, P. 12
+10.756069
+106.6652599999999
+https://images.foody.vn/res/g11/107768/prof/s640x400/foody-mobile-bv-pnthach-2-jpg-181-635610645430054887.jpg
+
+Bệnh Viện Đa Khoa Sài Gòn - Lê Lợi
+125 Lê Lợi, P. Bến Thành
+10.772013
+106.6994419999999
+https://images.foody.vn/res/g15/146751/prof/s640x400/foody-mobile-t-1-jpg-709-635708234937991880.jpg
+end:
